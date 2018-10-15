@@ -1,6 +1,6 @@
 # Context API Example
 
-This is a typescript version of the context_demonstrator
+This is a typescript version of the context_demonstrator. I included the files from the basic project so they can be compared side-by-side to see the differences. I am still new at typescript so if you see anything that stands out as odd drop me aline so I can look at it.
 
 The Context API, for React, creats a "Global" state for your application. This allows any component acces to the same state across the application...no more "prop drilling".
 
